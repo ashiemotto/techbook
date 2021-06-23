@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/github/repo-size/Techbook-Organization/techbook?color=cyan&label=Repo%20Size&logo=github&logoColor=cyan">
 </p>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://my-techbook.herokuapp.com)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://techbook2021.herokuapp.com/)
 
 ## ![](/public/images/favicon-32x32.png) What is Techbook?
 
